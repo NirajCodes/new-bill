@@ -1,0 +1,7 @@
+C:\Users\JAI MAHAKAALI\source\repos\new bill\new bill\bin\Debug\new bill.exe.config
+C:\Users\JAI MAHAKAALI\source\repos\new bill\new bill\bin\Debug\new bill.exe
+C:\Users\JAI MAHAKAALI\source\repos\new bill\new bill\bin\Debug\new bill.pdb
+C:\Users\JAI MAHAKAALI\source\repos\new bill\new bill\obj\Debug\new bill.csprojAssemblyReference.cache
+C:\Users\JAI MAHAKAALI\source\repos\new bill\new bill\obj\Debug\new bill.csproj.CoreCompileInputs.cache
+C:\Users\JAI MAHAKAALI\source\repos\new bill\new bill\obj\Debug\new bill.exe
+C:\Users\JAI MAHAKAALI\source\repos\new bill\new bill\obj\Debug\new bill.pdb
